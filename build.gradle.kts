@@ -8,6 +8,8 @@ group = "com.example"
 version = "0.0.1-SNAPSHOT"
 java.sourceCompatibility = JavaVersion.VERSION_18
 
+ext["hibernate.version"] = "5.6.14.Final"
+
 configurations {
     compileOnly {
         extendsFrom(configurations.annotationProcessor.get())
