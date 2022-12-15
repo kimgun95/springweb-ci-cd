@@ -1,6 +1,5 @@
 package com.example.springweb.web;
 
-import com.example.springweb.domain.posts.PostsRepository;
 import com.example.springweb.domain.posts.PostsSaveRequestDto;
 import com.example.springweb.service.PostsService;
 import lombok.AllArgsConstructor;
