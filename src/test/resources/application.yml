@@ -1,0 +1,12 @@
+#Test
+spring:
+  profiles:
+    active: local
+  main:
+    allow-circular-references: true
+
+# local 환경
+---
+spring:
+  jpa:
+    show-sql: true
