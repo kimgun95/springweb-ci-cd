@@ -42,3 +42,4 @@ deploy:
     on:
       repo: kimgun95/springweb #Github 주소
       branch: master
+    local_dir: deploy
