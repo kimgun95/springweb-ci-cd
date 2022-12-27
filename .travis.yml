@@ -25,6 +25,11 @@ notifications:
       - harrison1995@naver.com
   slack: springwebhq:i0bqFSEuqchMWdkP7XMGBYuP
 
+before_deploy:
+  - zip -r springweb *
+  - mkdir -p deploy
+  - mv springweb.zip deploy/springweb.zip
+
 deploy:
   - provider: s3
     access_key_id: $AWS_ACCESS_KEY # Travis repo settings에 설정된 값
