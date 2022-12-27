@@ -1,4 +1,4 @@
-# springweb
+# springweb [![Build Status](https://app.travis-ci.com/kimgun95/springweb.svg?branch=master)](https://app.travis-ci.com/kimgun95/springweb)
 
 [웹 서비스 출시하기 정리글](https://obtainable-poppyseed-72e.notion.site/e4dff969a71e41b0a3a7f3952f0da8c5)
 1. 프로젝트 생성(22.12.08)
