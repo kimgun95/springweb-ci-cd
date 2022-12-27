@@ -6,6 +6,11 @@ branches:
   only:
     - master
 
+# ------------추가 부분----------------
+
+before_script:
+  - cd springweb/
+
 # Travis CI 서버의 Home
 cache:
   directories:
