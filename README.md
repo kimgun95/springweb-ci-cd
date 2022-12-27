@@ -6,4 +6,4 @@
 3. Handlebars로 화면 구현(~15)
 4. AWS EC2 & RDS 구축하기(~22)
 5. EC2에 배포하기(~23)
-6. 
+6. TravisCI & AWS CodeDeploy로 배포 자동화 구축하기(~27)
