@@ -7,9 +7,8 @@ branches:
     - master
 
 ## ------------추가 부분----------------
-#
-#before_script:
-#  - cd springweb/
+before_script :
+  - chmod +x gradlew
 
 # Travis CI 서버의 Home
 cache:
