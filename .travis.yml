@@ -7,7 +7,7 @@ branches:
     - master
 
 ## ------------추가 부분----------------
-before_script :
+before_install:
   - chmod +x gradlew
 
 # Travis CI 서버의 Home
