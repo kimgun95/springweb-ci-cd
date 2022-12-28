@@ -8,5 +8,8 @@ spring:
 # local 환경
 ---
 spring:
+  config:
+    activate:
+      on-profile: local
   jpa:
     show-sql: true
