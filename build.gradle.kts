@@ -4,6 +4,10 @@ plugins {
     id("io.spring.dependency-management") version "1.1.0"
 }
 
+tasks.named<Jar>("jar") {
+    enabled = false
+}
+
 group = "com.example"
 version = "0.0.3"
 java.sourceCompatibility = JavaVersion.VERSION_1_8
