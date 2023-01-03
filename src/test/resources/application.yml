@@ -2,14 +2,8 @@
 spring:
   profiles:
     active: local
-    group:
-      local: real-db
   main:
     allow-circular-references: true
-  jpa:
-    properties:
-      hibernate:
-        dialect: org.hibernate.dialect.MySQL5InnoDBDialect
 
 # local 환경
 ---
