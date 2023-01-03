@@ -34,6 +34,7 @@ dependencies {
     annotationProcessor("org.projectlombok:lombok")
     testImplementation("org.springframework.boot:spring-boot-starter-test")
     implementation("pl.allegro.tech.boot:handlebars-spring-boot-starter:0.3.2")
+    implementation("org.mariadb.jdbc:mariadb-java-client")
 }
 
 tasks.withType<Test> {
