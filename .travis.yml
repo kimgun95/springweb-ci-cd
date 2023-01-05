@@ -1,26 +1,28 @@
+# 언어와 jdk 버전 지정
 language: java
 jdk:
   - openjdk8
 
+# 오직 master 브랜치에 push될 때만 수행되도록함
 branches:
   only:
     - master
 
-## ------------추가 부분----------------
+# 빌드 전 gradlew에 대한 실행권한 주기
 before_install:
   - chmod +x gradlew
 
 # Travis CI 서버의 Home
+# gradle을 통해 의존성을 받으면 이를 해당 디렉토리에 캐시하여, 같은 의존성은 다음 배포 때 부터 다시 받지 않도록 함
 cache:
   directories:
     - '$HOME/.m2/repository'
     - '$HOME/.gradle'
 
-script:
-  - "./gradlew test"
-  - "./gradlew clean build"
+# master 브랜치에 push 되었을 때 수행되는 명령어
+script: "./gradlew clean build"
 
-# CI 실행 완료시 메일로 알람
+# CI 실행 완료시 메일,슬랙으로 알람
 notifications:
   email:
     recipients:
