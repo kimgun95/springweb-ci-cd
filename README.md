@@ -10,3 +10,6 @@
 7. Nginx를 활용한 무중단 배포 구축(~28)
 8. 운영 환경(DB) 설정(~23.01.03)
 9.
+
+### 이슈 발생 및 해결
+- [profile include & SQL connection Exception](https://obtainable-poppyseed-72e.notion.site/profile-include-SQL-connection-Exception-a610f6ddd52749c8b4898c79a7bdbf18)
