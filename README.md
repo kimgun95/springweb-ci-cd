@@ -13,3 +13,4 @@
 
 ### 이슈 발생 및 해결
 - [profile include & SQL connection Exception](https://obtainable-poppyseed-72e.notion.site/profile-include-SQL-connection-Exception-a610f6ddd52749c8b4898c79a7bdbf18)
+- [Too many connections & connection refused](https://obtainable-poppyseed-72e.notion.site/Too-many-connections-connection-refused-6ba6802df0a24c258ba8099e845e7156)
