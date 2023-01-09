@@ -8,4 +8,9 @@
 5. EC2에 배포(~23)
 6. TravisCI & AWS CodeDeploy로 배포 자동화 구축(~27)
 7. Nginx를 활용한 무중단 배포 구축(~28)
-8. 
+8. 운영 DB 연결(~23.01.03)
+9. 도메인 생성, HTTPS 연결(~01.09)
+
+### 이슈 발생 및 해결
+- [profile include & SQL connection Exception](https://obtainable-poppyseed-72e.notion.site/profile-include-SQL-connection-Exception-a610f6ddd52749c8b4898c79a7bdbf18)
+- [Too many connections & connection refused](https://obtainable-poppyseed-72e.notion.site/Too-many-connections-connection-refused-6ba6802df0a24c258ba8099e845e7156)
