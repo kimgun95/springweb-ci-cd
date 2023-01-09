@@ -12,5 +12,6 @@
 9. 도메인 생성, HTTPS 연결(~01.09)
 
 ### 이슈 발생 및 해결
-- [profile include & SQL connection Exception](https://obtainable-poppyseed-72e.notion.site/profile-include-SQL-connection-Exception-a610f6ddd52749c8b4898c79a7bdbf18)
-- [Too many connections & connection refused](https://obtainable-poppyseed-72e.notion.site/Too-many-connections-connection-refused-6ba6802df0a24c258ba8099e845e7156)
+- [profile include & SQL connection Exception(01.03)](https://obtainable-poppyseed-72e.notion.site/profile-include-SQL-connection-Exception-a610f6ddd52749c8b4898c79a7bdbf18)
+- [Too many connections & connection refused(01.04)](https://obtainable-poppyseed-72e.notion.site/Too-many-connections-connection-refused-6ba6802df0a24c258ba8099e845e7156)
+- [도메인 구매 후(01.09)](https://obtainable-poppyseed-72e.notion.site/connection-refused-144e4bf81ffe4a62b3938e52be4c260a)
