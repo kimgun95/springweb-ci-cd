@@ -17,3 +17,7 @@
 - [profile include & SQL connection Exception(01.03)](https://obtainable-poppyseed-72e.notion.site/profile-include-SQL-connection-Exception-a610f6ddd52749c8b4898c79a7bdbf18)
 - [Too many connections & connection refused(01.04)](https://obtainable-poppyseed-72e.notion.site/Too-many-connections-connection-refused-6ba6802df0a24c258ba8099e845e7156)
 - [도메인 구매 후 connection refused(01.09)](https://obtainable-poppyseed-72e.notion.site/connection-refused-144e4bf81ffe4a62b3938e52be4c260a)
+
+
+### 왜 사용한 걸까? 에 대한 궁금증
+- [nginx -t, kill -9, shutdown hook](https://obtainable-poppyseed-72e.notion.site/nginx-t-kill-9-shutdown-hook-b99cc67f88aa43fc94012c64ee522591)
