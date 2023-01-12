@@ -17,4 +17,4 @@
 
 ### 왜 사용한 걸까? 에 대한 궁금증
 - [nginx -t, kill -9, shutdown hook(01.11)](https://obtainable-poppyseed-72e.notion.site/nginx-t-kill-9-shutdown-hook-b99cc67f88aa43fc94012c64ee522591)
-- [AWS 클라우드, MariaDB 선택 이유](https://obtainable-poppyseed-72e.notion.site/AWS-MariaDB-11c8ce9e13b54587b343d5eec822b152)
+- [AWS 클라우드, MariaDB 선택 이유(01.12)](https://obtainable-poppyseed-72e.notion.site/AWS-MariaDB-11c8ce9e13b54587b343d5eec822b152)
