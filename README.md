@@ -2,6 +2,7 @@
 
 [웹 서비스 출시하기 정리글](https://obtainable-poppyseed-72e.notion.site/e4dff969a71e41b0a3a7f3952f0da8c5)
 ### 서비스 구조
+![서비스전체구조](https://user-images.githubusercontent.com/54833128/212687110-c9124a11-4256-4105-86ac-3c6b70fa5caf.png)
 - SpringBoot, JPA로 API 구현
 - AWS EC2 & RDS
 - TravisCI & S3 & AWS CodeDeploy로 CI/CD
