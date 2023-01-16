@@ -11,7 +11,8 @@
 ### 이슈 발생 및 해결
 - database
     - [profile include & SQL connection Exception(01.03)](https://obtainable-poppyseed-72e.notion.site/profile-include-SQL-connection-Exception-a610f6ddd52749c8b4898c79a7bdbf18)
-    - [Too many connections & connection refused(01.04)](https://obtainable-poppyseed-72e.notion.site/Too-many-connections-connection-refused-6ba6802df0a24c258ba8099e845e7156)
+    - [Too many connections & connection refused(01.04)](https://obtainable-poppyseed-72e.notion.site/Too-many-connections-connection-refused-6ba6802df0a24c258ba8099e845e7156)  
+        -> [MySQL의 timeout 공부(01.16)](https://obtainable-poppyseed-72e.notion.site/MySQL-time-out-59efb3d6d5c34cd38f0025ef53f3529d)
 - Nginx
     - [도메인 구매 후 connection refused(01.09)](https://obtainable-poppyseed-72e.notion.site/connection-refused-144e4bf81ffe4a62b3938e52be4c260a)
 - CI/CD
