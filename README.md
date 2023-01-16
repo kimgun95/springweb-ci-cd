@@ -16,6 +16,6 @@
 
 
 ### 해당 기술 사용 이유, 더 좋은 방법은 없었을까?
-- [nginx -t, kill -9, shutdown hook(01.11)](https://obtainable-poppyseed-72e.notion.site/nginx-t-kill-9-shutdown-hook-b99cc67f88aa43fc94012c64ee522591)
+- [nginx -t, kill -9 사용 이유(01.11)](https://obtainable-poppyseed-72e.notion.site/nginx-t-kill-9-shutdown-hook-b99cc67f88aa43fc94012c64ee522591)
 - [AWS 클라우드, MariaDB 선택 이유(01.12)](https://obtainable-poppyseed-72e.notion.site/AWS-MariaDB-11c8ce9e13b54587b343d5eec822b152)
 - [Java 8 선택 이유](https://obtainable-poppyseed-72e.notion.site/Java-8-ca65a4857b804b589f4e757c37cf9fdb)
