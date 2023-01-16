@@ -13,6 +13,7 @@
 - [profile include & SQL connection Exception(01.03)](https://obtainable-poppyseed-72e.notion.site/profile-include-SQL-connection-Exception-a610f6ddd52749c8b4898c79a7bdbf18)
 - [Too many connections & connection refused(01.04)](https://obtainable-poppyseed-72e.notion.site/Too-many-connections-connection-refused-6ba6802df0a24c258ba8099e845e7156)
 - [도메인 구매 후 connection refused(01.09)](https://obtainable-poppyseed-72e.notion.site/connection-refused-144e4bf81ffe4a62b3938e52be4c260a)
+- [error in opening zip file(01.16)](https://obtainable-poppyseed-72e.notion.site/error-in-opening-zip-file-d30399462ff540f3b6a659ae49ca29d8)
 
 
 ### 해당 기술 사용 이유, 더 좋은 방법은 없었을까?
